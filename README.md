@@ -11,13 +11,13 @@
   Linux: F5
   ```
 2. Open the [Udacity reviewer dashboard](https://review.udacity.com/#!/submissions/dashboard) and make sure you are logged in
-3. In the dev console (with the udacity dashboard in focus) and get yout token from the [API Access](https://review.udacity.com/) section.
+3. Get your token from the [API Access](https://review.udacity.com/) section.
 4. Paste the token to editText and hit enter
 5. Your data will be stored locally on your pc.
   * If you refresh after the first use you should see a button that says `Load locally stored data you last used`.
   * This will not pull fresh data from Udacity but it will let you see your last loaded data without getting it and pasting it again.
   
-  ### The following information is presented
+### The following information is presented
 
 * Review id
   * id is the default sort item and is in descending order
@@ -40,6 +40,3 @@
   * Dropdown menu shows average per project and % comparison of averages
 * Earliest review date
 * Most recent review date.
-
-
-
